@@ -1,0 +1,94 @@
+/**
+ * Site footer.
+ */
+
+footer {
+  background: $grey_bg_dark;
+  color: $white;
+  font-family: $font-sans;
+  padding: 1rem 0;
+
+  .footer-row {
+    margin: 0 auto;
+    max-width: $max_width;
+    padding: 0 $gutter_default;
+
+    @media screen and (min-width: $medium) {
+      padding: 0 $gutter_medium;
+    }
+
+    @media screen and (min-width: $large) {
+      padding: 0 $gutter_large;
+    }
+
+    &.info {
+      @media screen and (min-width: $medium) {
+        display: grid;
+        grid-template-columns: 1fr 3fr;
+      }
+    }
+
+    &.copyright {
+      padding-top: 1rem;
+    }
+  }
+
+  section {
+    border: solid $white;
+    border-width: 0 0 1px 0;
+    padding: 1rem 0;
+
+    @media screen and (min-width: $medium) {
+      border-width: 0 0 0 1px;
+      padding-left: 2rem;
+
+      &:first-child {
+        border-width: 0;
+        padding-left: 0;
+      }
+    }
+  }
+
+  h2 {
+    color: $white;
+    font-size: 1.2rem;
+  }
+
+  p {
+    font-size: 0.9rem;
+  }
+
+  ul {
+    margin: 0;
+  }
+
+  li {
+    font-size: 0.9rem;
+    line-height: 2;
+    margin: 0;
+  }
+
+  a {
+    color: lighten($purple_verylight, 15%);
+    text-decoration: none;
+
+    &.icon {
+      color: $white;
+
+      &:hover {
+        text-decoration: none;
+      }
+    }
+
+    &:hover {
+      background: none;
+      color: $purple_verylight;
+      text-decoration: underline;
+    }
+  }
+
+  .fas, .fab {
+    font-size: 1.5rem;
+    margin-right: 1rem;
+  }
+}

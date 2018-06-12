@@ -1,1 +1,2 @@
-# jhalabi.github.io
+# jhalabi.com
+Jekyll website for jhalabi.com

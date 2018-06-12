@@ -1,0 +1,75 @@
+/**
+ * Main navigation.
+ */
+
+.nav {
+  display: inline-block;
+  width: 100%;
+
+  ul {
+    margin: 0;
+  }
+
+  li {
+    background: $purple_dark;
+    font-family: $font-sans;
+    font-size: 1rem;
+    margin: 0;
+    text-align: center;
+    transition: all 1s;
+
+    &:hover {
+      background: darken($purple_dark, 10%);
+    }
+  }
+
+  li:nth-child(2) {
+    background: $purple_base;
+
+    &:hover {
+      background: darken($purple_base, 10%);
+    }
+  }
+
+  li:nth-child(3) {
+    background: $purple_light;
+
+    &:hover {
+      background: darken($purple_light, 10%);
+    }
+  }
+
+  li:nth-child(4) {
+    background: $purple_verylight;
+
+    &:hover {
+      background: darken($purple_verylight, 10%);
+    }
+  }
+
+  a {
+    background: transparent;
+    color: $white;
+    display: block;
+    padding: 1rem 0;
+    text-decoration: none;
+    width: 100%;
+
+    @media screen and (min-width: $medium) {
+      padding: 1rem 0;
+    }
+  }
+}
+
+/**
+ * Main navigation, home page specific.
+ */
+
+@media screen and (min-width: $medium) {
+  .nav.home {
+    ul {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+  }
+}

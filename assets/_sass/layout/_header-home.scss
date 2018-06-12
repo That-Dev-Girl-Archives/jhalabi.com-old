@@ -1,0 +1,52 @@
+/**
+ * Site header for the home page.
+ */
+
+.home-header {
+  background: $black;
+  padding: 1.5rem 0;
+  text-align: center;
+
+  img {
+    width: 5.5rem;
+  }
+
+  h1 {
+    border-bottom: 1px solid $white;
+    font-family: $font_sans;
+    letter-spacing: 1px;
+    margin: 0.1rem $gutter_default 0;
+    padding-bottom: 0.5rem;
+
+    @media screen and (min-width: $medium) {
+      margin: 0.1rem $gutter_medium 0;
+    }
+
+    @media screen and (min-width: $large) {
+      margin: 0.1rem $gutter_large 0;
+    }
+  }
+
+  a, a:hover {
+    background: none;
+    color: $white;
+    text-decoration: none;
+  }
+
+  p {
+    color: $white;
+    font-family: $font_sans;
+    font-size: 1.1rem;
+    line-height: 1.4;
+    margin: 1.5rem $gutter_default 1rem;
+
+    @media screen and (min-width: $medium) {
+      margin: 1.5rem $gutter_medium 1rem;
+    }
+
+    @media screen and (min-width: $large) {
+      margin: 1.5rem auto 1rem;
+      max-width: 600px;
+    }
+  }
+}

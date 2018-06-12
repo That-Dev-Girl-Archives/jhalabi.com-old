@@ -1,0 +1,35 @@
+// Colors
+$black: #000;
+$white: #fff;
+
+$purple_base: #7d2861;
+$purple_dark: #5d0f44;
+$purple_light: #9b4a81;
+$purple_verylight: #bd7aa7;
+
+$grey_border: #aaa;
+$grey_border_dark: #666;
+
+$grey_bg_dark: #222;
+$grey_bg_light: #eee;
+$grey_bg_verylight: #f6f6f6;
+$grey_bg: #ccc;
+
+// Fonts
+$font_serif: Amethysta, serif;
+$font_sans: Raleway, sans-serif;
+
+// Sizes
+$max_width: 1400px;
+$header_height: 48px;
+$page_top_margin: $header_height + 12px;
+
+// Breakpoints
+$medium: 768px;
+$large: 1024px;
+$xlarge: $max_width;
+
+// Gutters
+$gutter_default: 20px;
+$gutter_medium: 80px;
+$gutter_large: 100px;
