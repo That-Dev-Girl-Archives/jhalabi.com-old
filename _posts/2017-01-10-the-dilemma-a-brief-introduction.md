@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The dilemma: A brief introduction"
-date: "2017-01-10"
+date: "2017-01-10 12:22:00"
 categories:
   - pregnancy
 tags:
