@@ -1,37 +1,53 @@
 {% include site-header.html %}
 {% include page-header.html %}
 
-<article class="post">
-  <header aria-labelledby="article-title">
-    <div class="container">
-      <p>{{ page.date | date_to_long_string }}</p>
+<main class="site-content">
+  <div class="site-wrapper">
+
+    <article class="post">
       <h1 id="article-title">{{ page.title }}</h1>
-    </div>
-  </header>
 
-  <div class="taxonomy">
-    <div class="container">
-      <p>
-        {% for category in page.categories %}
-        <a href="/blog/{{category | replace: ' ', '_' }}">{{ category | replace: "_", " " }}</a>
-        {% endfor %}
+      <p class="date">
+        <time datetime="{{ page.date }}">{{ page.date | date_to_long_string }}</time>
       </p>
-    </div>
-  </div>
 
-  <div class="article container">
-    {{ content }}
-  </div>
+      <div class="taxonomy">
+        {% if page.categories != empty %}
+          <span class="topic categories">
+            <b>Category:</b>
+            {% for category in page.categories %}
+              <a href="/blog/{{ category | replace: ' ', '_' }} ">{{ category | replace: "_", " " }}</a>
+            {% endfor %}
+          </span>
+        {% endif %}
 
-  <div class="share">
-    <div class="container">
-      <span class="label">Share me!</span>
-      <a href="https://twitter.com/intent/tweet?text={{ page.title | cgi_escape }}&url={{ site.production_url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" aria-label="Share on Twitter"><span class="fa fa-twitter"></span></a>
-      <a href="https://facebook.com/sharer.php?u={{ site.production_url }}{{ page.url }}" rel="nofollow" target="_blank" aria-label="Share on Facebook"><span class="fa fa-facebook"></span></a>
-      <a href="https://plus.google.com/share?url={{ site.production_url }}{{ page.url }}" rel="nofollow" target="_blank" aria-label="Share on Google+"><span class="fa fa-google-plus"></span></a>
-    </div>
+        {% if page.tags != empty %}
+          <span class="topic tags">
+            <b>Tags:</b>
+            {% for tag in page.tags %}
+              <a href="/blog/{{ tag | replace: ' ', '_' }} ">{{ tag | replace: "_", " " }}</a>
+            {% endfor %}
+          </span>
+        {% endif %}
+      </div>
+
+      <div class="container">
+        <div class="post-share">
+          <p>Share this!</p>
+          <a href="https://twitter.com/intent/tweet?text={{ page.title | cgi_escape }}&url={{ site.production_url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" aria-label="Share on Twitter"><span class="fab fa-twitter"></span></a>
+          <a href="https://facebook.com/sharer.php?u={{ site.production_url }}{{ page.url }}" rel="nofollow" aria-label="Share on Facebook"><span class="fab fa-facebook"></span></a>
+          <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.production_url }}{{ page.url }}" rel="nofollow" aria-label="Share on LinkedIn"><span class="fab fa-linkedin"></span></a>
+          <a href="mailto:?to=&body={{ site.production_url }}{{ page.url }}?subject=Read%20this:%20{{ page.title | replace: ' ', '%20' }}" rel="nofollow" aria-label="Share via email"><span class="fas fa-envelope-square"></span></a>
+        </div>
+
+        <div class="post-article">
+          {{ content }}
+        </div>
+      </div>
+    </article>
+
   </div>
-</article>
+</main>
 
 {% include page-footer.html %}
 {% include site-footer.html %}

@@ -1,0 +1,166 @@
+/**
+ * Posts
+ */
+
+.post {
+  margin: 2rem 0;
+
+  .date {
+    font-size: 1em;
+  }
+
+  .container {
+    @media screen and (min-width: $medium) {
+      display: grid;
+      grid-template-columns: 9rem 1fr;
+    }
+  }
+
+  img {
+    border: 1px solid $grey_bg_dark;
+    padding: 0.25rem;
+  }
+}
+
+/**
+ * Taxonomy
+ */
+
+.taxonomy {
+  border: solid $grey_border;
+  border-width: 1px 0;
+  margin: 2rem 0;
+  padding: 1rem 0.5rem;
+
+  @media screen and (min-width: $medium) {
+    margin-bottom: 3rem;
+  }
+
+  // Category / tag container
+  .topic {
+    display: block;
+    margin-right: 2rem;
+
+    @media screen and (min-width: $medium) {
+      display: inline;
+    }
+
+    // Category / tag label
+    b {
+      display: inline-block;
+      width: 4.5rem;
+
+      @media screen and (min-width: $medium) {
+        display: inline;
+        width: auto;
+      }
+    }
+
+    // Category / tag link
+    a {
+      border-radius: 3px;
+      color: $white;
+      margin: 0 10px 0 5px;
+      padding: 5px 10px;
+      text-decoration: none;
+    }
+
+    &.categories a {
+      background: $purple_dark;
+      text-transform: capitalize;
+
+      &:hover, &:focus {
+        background: lighten($purple_dark, 10%);
+      }
+    }
+
+    &.tags a {
+      background: $black;
+
+      &:hover, &:focus {
+        background: lighten($black, 25%);
+      }
+    }
+  }
+}
+
+/**
+ * Share links
+ */
+
+.post-share {
+  margin-bottom: 2rem;
+
+  @media screen and (min-width: $medium) {
+    margin-bottom: 0;
+  }
+
+  p {
+    font-size: .9rem;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 0;
+    margin-right: 0.625rem;
+  }
+
+  a {
+    font-size: 2.75rem;
+    margin: 0.75rem 0.5rem 0.75rem 0;
+    width: 2.75rem;
+
+    &:hover {
+      background: none;
+    }
+
+    span {
+      position: relative;
+      top: 0.5rem;
+
+      @media screen and (min-width: $medium) {
+        top: 0;
+      }
+    }
+
+    @media screen and (min-width: $medium) {
+      display: block;
+      margin-right: 0;
+    }
+
+    .fa-twitter {
+      background: $twitter;
+      border-radius: 0.1875rem;
+      color: $white;
+      font-size: 1.5rem;
+      padding: 0.5rem;
+      top: 0;
+
+      &:hover {
+        background: lighten($twitter, 10%);
+      }
+    }
+
+    .fa-facebook {
+      color: $facebook;
+
+      &:hover {
+        color: lighten($facebook, 10%);
+      }
+    }
+
+    .fa-linkedin {
+      color: $linkedin;
+
+      &:hover {
+        color: lighten($linkedin, 10%);
+      }
+    }
+
+    .fa-envelope-square {
+      color: $email;
+
+      &:hover {
+        color: lighten($email, 10%);
+      }
+    }
+  }
+}

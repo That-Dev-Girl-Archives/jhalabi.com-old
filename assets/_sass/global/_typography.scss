@@ -83,6 +83,22 @@ em, i {
 
 ul, ol {
   margin: 1.5rem 1rem;
+
+  main & {
+    margin-left: 2rem;
+
+    li {
+      padding-left: 0.5rem;
+    }
+  }
+}
+
+main ul {
+  list-style-type: disc;
+}
+
+main ol {
+  list-style-type: decimal;
 }
 
 a {
@@ -127,13 +143,4 @@ blockquote {
 br, section {
   clear: both;
   display: block;
-}
-
-.screen-reader-text {
-  height: 1px;
-  left: -10000px;
-  overflow: hidden;
-  position: absolute;
-  top: auto;
-  width: 1px;
 }

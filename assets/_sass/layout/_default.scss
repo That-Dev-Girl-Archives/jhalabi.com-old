@@ -1,0 +1,23 @@
+/**
+ * Default page containers
+ */
+
+.site-content {
+  padding: 0.75rem $gutter_default 0;
+
+  @media screen and (min-width: $medium) {
+    margin-top: $header_height;
+    padding: 1.5rem $gutter_medium 0;
+  }
+
+  @media screen and (min-width: $large) {
+    padding: 1.5rem $gutter_large 0;
+  }
+}
+
+.site-wrapper {
+  @media screen and (min-width: $xlarge) {
+    margin: 0 auto;
+    width: calc(#{$max_width} - 400px);
+  }
+}

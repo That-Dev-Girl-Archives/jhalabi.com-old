@@ -1,4 +1,7 @@
-// Colors
+/**
+ * Colors
+ */
+
 $black: #000;
 $white: #fff;
 
@@ -15,21 +18,38 @@ $grey_bg_light: #eee;
 $grey_bg_verylight: #f6f6f6;
 $grey_bg: #ccc;
 
-// Fonts
+$facebook: #3b5998;
+$twitter: #1da1f2;
+$linkedin: #0077b5;
+$email: #555;
+
+/**
+ * Fonts
+ */
+
 $font_serif: Amethysta, serif;
 $font_sans: Raleway, sans-serif;
 
-// Sizes
+/**
+ * Sizes
+ */
+
 $max_width: 1400px;
 $header_height: 48px;
 $page_top_margin: $header_height + 12px;
 
-// Breakpoints
+/**
+ * Breakpoints
+ */
+
 $medium: 768px;
 $large: 1024px;
 $xlarge: $max_width;
 
-// Gutters
+/**
+ * Gutters
+ */
+
 $gutter_default: 20px;
 $gutter_medium: 80px;
 $gutter_large: 100px;
