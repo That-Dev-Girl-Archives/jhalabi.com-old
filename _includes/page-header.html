@@ -8,10 +8,10 @@
     <button id="menu-btn">Menu</button>
     <div class="menu-main-nav-container">
       <ul id="menu-main-nav">
-        <li><a href="/photos">Photos</a></li>
-        <li><a href="/blog">Blog</a></li>
-        <li><a href="/books">Reading</a></li>
-        <li><a href="/resume">Resume</a></li>
+        <li><a href="/photos" {% if page.url contains '/photos' %}class="current"{% endif %}>Photos</a></li>
+        <li><a href="/blog" {% if page.url contains '/blog' %}class="current"{% endif %}>Blog</a></li>
+        <li><a href="/books" {% if page.url contains '/books' %}class="current"{% endif %}>Reading</a></li>
+        <li><a href="/resume" {% if page.url contains '/resume' %}class="current"{% endif %}>Resume</a></li>
       </ul>
     </div>
   </nav>

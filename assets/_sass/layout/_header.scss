@@ -111,5 +111,11 @@
         background: $purple_dark;
       }
     }
+
+    &.current {
+      @media screen and (min-width: $medium) {
+        background: $purple_base;
+      }
+    }
   }
 }
