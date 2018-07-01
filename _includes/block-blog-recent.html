@@ -1,0 +1,22 @@
+<section class="blog-recent {{ include.classes }}" aria-label="Latest blog post">
+  <div class="excerpt site-content">
+    <div>
+      {% assign post = site.posts.first %}
+
+      <p class="date">
+        <time datetime="{{ post.date }}">{{ post.date | date_to_long_string }}</time>
+      </p>
+
+      <h2>
+        Latest Post:
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </h2>
+
+      <p class="teaser">
+        {{ post.content | strip_html | truncate: 275, ' [...]' }}
+      </p>
+
+      <a href="{{ post.url }}" class="btn" aria-label="Read more about {{ post.title }}">Read more...</a>
+    </div>
+  </div>
+</section>

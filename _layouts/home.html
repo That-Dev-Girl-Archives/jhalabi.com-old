@@ -1,7 +1,15 @@
 {% include site-header.html %}
 {% include page-header-home.html %}
 
-{{ content }}
+<main class="site-content">
+  <div class="site-wrapper">
+    {{ content }}
+  </div>
+</main>
+
+{% include block-home-thatdevgirl.html %}
+
+{% include block-blog-recent.html classes="home" %}
 
 {% include page-footer.html %}
 {% include site-footer.html %}

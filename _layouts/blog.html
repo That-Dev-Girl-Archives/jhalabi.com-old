@@ -5,50 +5,11 @@
   <div class="site-wrapper blog">
 
     <h1>Personal Blog</h1>
-    <p>Blog posts about the untechnical side of my life. For geekier posts, check out <a href="https://www.thatdevgirl.com">my development blog</a>.</p>
+    <p>Blog posts about the non-technical side of my life. For geekier posts, check out <a href="https://www.thatdevgirl.com">my development blog</a>.</p>
 
-    <section class="blog-recent" aria-label="Latest blog post">
-      <div class="excerpt site-content">
-        <div>
-          {% assign post = site.posts.first %}
+    {% include block-blog-recent.html %}
 
-          <p class="date">
-            <time datetime="{{ post.date }}">{{ post.date | date_to_long_string }}</time>
-          </p>
-
-          <h2>
-            Latest Post:
-            <a href="{{ post.url }}">{{ post.title }}</a>
-          </h2>
-
-          <p class="teaser">
-            {{ post.content | strip_html | truncate: 275, ' [...]' }}
-          </p>
-
-          <a href="{{ post.url }}" class="btn" aria-label="Read more about {{ post.title }}">Read more...</a>
-        </div>
-      </div>
-    </section>
-
-    <section class="blog-category-list" aria-label="List of blog categories">
-      <div class="category">
-        <h2><a href="/blog/category/pregnancy/">Pregnancy</a></h2>
-        <p>Articles about my adventures before and during pregnancy.</p>
-        <p><a href="/blog/category/pregnancy/" class="btn" aria-label="Read posts about pregnancy">Read all posts</a></p>
-      </div>
-
-      <div class="category">
-        <h2><a href="/blog/category/life/">Life</a></h2>
-        <p>Random articles about non-work related things going on in my life.</p>
-        <p><a href="/blog/category/life/" class="btn" aria-label="Read posts about life">Read all posts</a></p>
-      </div>
-
-      <div class="category">
-        <h2><a href="/blog/category/photography/">Photography</a></h2>
-        <p>Articles for those rare occasions that I decide to photo-blog.</p>
-        <p><a href="/blog/category/photography/" class="btn" aria-label="Read posts about photography">Read all posts</a></p>
-      </div>
-    </section>
+    {% include block-blog-category-list.html %}
 
   </div>
 </main>

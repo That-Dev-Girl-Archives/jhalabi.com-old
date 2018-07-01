@@ -1,0 +1,30 @@
+/**
+ * Blog category list
+ */
+
+.blog-category-list {
+  @media screen and (min-width: $medium) {
+    display: grid;
+    grid-column-gap: 1rem;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  .category {
+    border: 1px solid $grey_border;
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+
+    @media screen and (min-width: $medium) {
+      margin-bottom: 4rem;
+    }
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+}
