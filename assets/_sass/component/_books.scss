@@ -1,0 +1,30 @@
+/**
+ * General book page styles
+ */
+
+// List of anchor links
+.book-anchors {
+  font-size: 1.2rem;
+  margin: 2rem 0 4rem -0.5rem;
+
+  a {
+    display: inline-block;
+    padding: 0 0.5rem;
+  }
+}
+
+// Individual anchor
+.book-anchor {
+  left: 0;
+  position: relative;
+  top: -48px;
+
+  & + h2 {
+    background: darken($grey_bg_light, 5%);
+    left: calc((100vw - 100%) / 2 * -1);
+    margin-bottom: 2rem;
+    padding: 0.5rem 100px;
+    position: relative;
+    width: calc(100vw - ( (100vw - 100%) / 2 ));
+  }
+}

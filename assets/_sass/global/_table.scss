@@ -1,0 +1,68 @@
+/**
+ * Table styles
+ */
+
+table {
+  font-size: 1.1rem;
+  line-height: 1.4;
+  margin-bottom: 4rem;
+  width: 100%;
+
+  thead {
+    border-bottom: 2px solid $black;
+
+    @media screen and (max-width: $medium) {
+      display: none;
+    }
+
+    th {
+      font-weight: bold;
+      padding: 0.5rem 1rem 0.25rem;
+      text-align: left;
+      white-space: nowrap;
+    }
+  }
+
+  tr {
+    @media screen and (max-width: $medium) {
+      background: $grey_bg_verylight;
+      display: block;
+      margin-bottom: 1rem;
+      padding: 1rem 1.5rem;
+    }
+
+    &:nth-child(2n) {
+      @media screen and (min-width: $large) {
+        background: $grey_bg_verylight;
+      }
+    }
+  }
+
+  td {
+    padding: 1.25rem 1rem;
+
+    @media screen and (max-width: $medium) {
+      display: block;
+      padding: 1rem 0;
+
+      &:last-child {
+        font-size: 1rem;
+        padding-bottom: 1.25rem;
+
+        &:before {
+          content: 'Read in: ';
+        }
+      }
+    }
+
+    @media screen and (min-width: $medium) {
+      width: 50%;
+    }
+
+    em {
+      display: inline-block;
+      font-size: 1rem;
+      margin-top: 0.5rem;
+    }
+  }
+}
