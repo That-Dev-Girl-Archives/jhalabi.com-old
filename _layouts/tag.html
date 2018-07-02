@@ -1,0 +1,36 @@
+{% include site-header.html %}
+{% include page-header.html %}
+
+<main class="site-content">
+  <div class="site-wrapper">
+
+    <h1>{{ page.category | capitalize | replace: "_", " "}}.</h1>
+    {{ page.content }}
+
+    <ul class="taxonomy-articles">
+      {% for post in site.tags[page.category] %}
+        <li>
+          <p class="date">
+            {{ post.date | date_to_long_string }}
+          </p>
+
+          <h2>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </h2>
+
+          <p>
+            {{ post.content | strip_html | truncate: 275, ' [...]' }}
+          </p>
+
+          <a href="{{ post.url }}" class="btn" aria-label="Read more about {{ post.title }}">
+            Read more...
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+
+  </div>
+</main>
+
+{% include page-footer.html %}
+{% include site-footer.html %}

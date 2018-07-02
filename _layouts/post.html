@@ -16,7 +16,7 @@
           <span class="topic categories">
             <b>Category:</b>
             {% for category in page.categories %}
-              <a href="/blog/category/{{ category | replace: ' ', '_' }} ">{{ category | replace: "_", " " }}</a>
+              <a href="/blog/category/{{ category | replace: ' ', '-' }} ">{{ category }}</a>
             {% endfor %}
           </span>
         {% endif %}
@@ -25,7 +25,7 @@
           <span class="topic tags">
             <b>Tags:</b>
             {% for tag in page.tags %}
-              <a href="/blog/tag/{{ tag | replace: ' ', '_' }} ">{{ tag | replace: "_", " " }}</a>
+              <a href="/blog/tag/{{ tag | replace: ' ', '-' }} ">{{ tag }}</a>
             {% endfor %}
           </span>
         {% endif %}
