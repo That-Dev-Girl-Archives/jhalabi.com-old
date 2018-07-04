@@ -1,0 +1,36 @@
+/**
+ * Resume page styles
+ */
+
+.work {
+  h3 {
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 0.25rem;
+    margin-top: 4rem;
+    text-transform: uppercase;
+
+    &:first-of-type {
+      margin-top: 2rem;
+    }
+  }
+
+  // Work title
+  strong {
+    color: $purple_dark;
+    display: block;
+    font-size: 1.1em;
+    letter-spacing: 1px;
+    line-height: 1.4;
+  }
+
+  // Work dates
+  em {
+    display: block;
+    font-size: 1.1rem;
+  }
+
+  ul {
+    list-style-type: square;
+  }
+}

@@ -3,15 +3,25 @@
  */
 
 .site-content {
-  padding: 0.75rem $gutter_default 0;
+  padding: 2rem $gutter_default;
 
   @media screen and (min-width: $medium) {
     margin-top: $header_height;
-    padding: 1.5rem $gutter_medium 0;
+    padding: 2rem $gutter_medium;
   }
 
   @media screen and (min-width: $large) {
-    padding: 1.5rem $gutter_large 0;
+    padding: 2rem $gutter_large;
+  }
+}
+
+section.site-content {
+  @media screen and (min-width: $medium) {
+    margin-top: 0;
+
+    &:first-child {
+      margin-top: $header_height;
+    }
   }
 }
 
@@ -20,4 +30,8 @@
     margin: 0 auto;
     width: calc(#{$max_width} - 400px);
   }
+}
+
+section.grey {
+  background: $grey_bg_verylight;
 }

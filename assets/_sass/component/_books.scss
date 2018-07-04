@@ -22,9 +22,22 @@
   & + h2 {
     background: darken($grey_bg_light, 5%);
     left: calc((100vw - 100%) / 2 * -1);
-    margin-bottom: 2rem;
-    padding: 0.5rem 100px;
+    margin-bottom: 1rem;
+    padding: 0.5rem $gutter_default;
     position: relative;
     width: calc(100vw - ( (100vw - 100%) / 2 ));
+
+    @media screen and (min-width: $medium) {
+      margin-bottom: 2rem;
+      padding: 0.5rem $gutter_medium;
+    }
+
+    @media screen and (min-width: $medium) {
+      padding: 0.5rem $gutter_large;
+    }
+
+    @media screen and (max-width: $medium) {
+      font-size: 1.5rem;
+    }
   }
 }

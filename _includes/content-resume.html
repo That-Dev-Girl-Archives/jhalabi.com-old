@@ -1,0 +1,45 @@
+<main>
+
+  <div class="site-content">
+    <div class="site-wrapper">
+      {{ content | markdownify }}
+    </div>
+  </div>
+
+  <section class="site-content grey" aria-label="Technical skills">
+    <div class="site-wrapper">
+      {{ technicalskills | markdownify }}
+    </div>
+  </section>
+
+  <section class="site-content work" aria-label="Current Work">
+    <div class="site-wrapper">
+      {{ currentwork | markdownify }}
+    </div>
+  </section>
+
+  <section class="site-content grey" aria-label="Conference Speaking and Teaching">
+    <div class="site-wrapper">
+      {{ speaking | markdownify }}
+    </div>
+  </section>
+
+  <section class="site-content work" aria-label="Previous Professional Experience">
+    <div class="site-wrapper">
+      {{ previouswork | markdownify }}
+    </div>
+  </section>
+
+  <section class="site-content grey" aria-label="Degrees and Certifications">
+    <div class="site-wrapper">
+      {{ education | markdownify }}
+    </div>
+  </section>
+
+  <section class="site-content" aria-label="Community Involvement">
+    <div class="site-wrapper">
+      {{ community | markdownify }}
+    </div>
+  </section>
+
+</main>
