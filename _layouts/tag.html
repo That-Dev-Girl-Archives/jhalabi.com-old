@@ -5,7 +5,7 @@
   <div class="site-wrapper">
 
     <h1>{{ page.category | capitalize | replace: "_", " "}}.</h1>
-    {{ page.content }}
+    <p>{{ page.content }}</p>
 
     <ul class="taxonomy-articles">
       {% for post in site.tags[page.category] %}
