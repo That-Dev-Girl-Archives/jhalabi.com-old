@@ -1,0 +1,54 @@
+/**
+ * Photo gallery
+ */
+
+.photos-album {
+  margin: 2rem 0 1rem;
+
+  a {
+    background: $purple_dark;
+    border-radius: 0.25rem;
+    color: $white;
+    font-size: 1.1rem;
+    padding: 0.35rem 1rem;
+    text-decoration: none;
+
+    &:hover, &:focus {
+      background: lighten( $purple_dark, 10% );
+    }
+  }
+}
+
+.photos-header {
+  margin: 0 0 0.25rem;
+}
+
+.photos-date {
+  font-size: 1.1rem;
+  font-style: italic;
+  margin-bottom: 2rem;
+}
+
+.photos-gallery {
+  display: flex;
+  flex-flow: row wrap;
+  width: 100%;
+}
+
+.photos-brick {
+  flex: auto;
+  height: 250px;
+  margin: 0 0.5rem 0.5rem 0;
+  min-width: 150px;
+
+  &:nth-child( 4n+1 ) { width: 250px; }
+  &:nth-child( 4n+2 ) { width: 325px; }
+  &:nth-child( 4n+3 ) { width: 180px; }
+  &:nth-child( 4n+4 ) { width: 380px; }
+
+  img {
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+  }
+}
