@@ -1,28 +1,22 @@
-<main class="site-content">
-  <div class="site-wrapper">
+<p class="photos-album">
+  <a href="../">
+    {{ page.album }}
+  </a>
+</p>
 
-    <p class="photos-album">
-      <a href="../">
-        {{ page.album }}
-      </a>
-    </p>
+<h1 class="photos-header">{{ page.title }}</h1>
+<p class="photos-date">{{ page.date }}</p>
 
-    <h1 class="photos-header">{{ page.title }}</h1>
-    <p class="photos-date">{{ page.date }}</p>
+<div class="photos-gallery">
+  {% assign imgs = site.static_files %}
+  {% for img in imgs %}
+    {% if img.path contains page.folder %}
+      {% assign img_name = img.path | split: '/' | last | split: '.' | first %}
 
-    <div class="photos-gallery">
-      {% assign imgs = site.static_files %}
-      {% for img in imgs %}
-        {% if img.path contains page.folder %}
-          {% assign img_name = img.path | split: '/' | last | split: '.' | first %}
+      <figure class="photos-brick">
+        <img src="{{ img.path }}" alt="{{ img_name }}" title="{{ img_name }}"/>
+      </figure>
 
-          <figure class="photos-brick">
-            <img src="{{ img.path }}" alt="{{ img_name }}" title="{{ img_name }}"/>
-          </figure>
-
-        {% endif %}
-      {% endfor %}
-    </div>
-
-  </div>
-</main>
+    {% endif %}
+  {% endfor %}
+</div>

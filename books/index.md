@@ -3,8 +3,6 @@ layout: page
 title: Reading List
 ---
 
-{% capture books %}
-
 # Reading List
 
 Because... you know... books are awesome!
@@ -251,7 +249,3 @@ Book | Thoughts | Date Read
 **Abraham Lincoln: Vampire Hunter** <br> _Seth Grahame-Smith_ | My favorite president and my favorite fictional subject matter. It doesn't get better than this. Loved it! <span class='fa fa-heart'></span> | August
 **Designing the Moment** <br> _Robert Hoekman Jr._ | This was a fabulous, and very obvious, book on website user experience. Loved it! <span class='fa fa-heart'></span> | August
 **Stern Men** <br> _Elizabeth Gilbert_ | I may be Ruth... at least partially. | August
-
-{% endcapture %}
-
-{% include content-books.html %}
