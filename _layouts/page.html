@@ -1,7 +1,7 @@
 {% include site-header.html %}
 {% include page-header.html %}
 
-<main class="site-content" id="{{ page.id }}">
+<main class="site-content" {% if page.id %} id="{{ page.id }}" {% endif %}>
   <div class="site-wrapper">
     {{ content }}
   </div>

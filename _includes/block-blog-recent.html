@@ -4,7 +4,7 @@
       {% assign post = site.posts.first %}
 
       <p class="date">
-        <time datetime="{{ post.date }}">{{ post.date | date_to_long_string }}</time>
+        <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
       </p>
 
       <h2>

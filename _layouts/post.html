@@ -8,7 +8,7 @@
       <h1 id="article-title">{{ page.title }}</h1>
 
       <p class="date">
-        <time datetime="{{ page.date }}">{{ page.date | date_to_long_string }}</time>
+        <time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date_to_long_string }}</time>
       </p>
 
       <div class="taxonomy">
