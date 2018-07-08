@@ -8,7 +8,7 @@ galleries:
   - { dir: '2018-01--dan-and-mike-concerts/', title: 'Jan 2018: Dan Navarro and Michael Clem Concerts', thumb: 'IMG_0013.jpg', qty: '12' }
   - { dir: '2017-01--michael-clem-birthday-show/', title: 'Jan 2017: Michael Clem Birthday Show', thumb: 'IMG_0030.JPG', qty: '15' }
   - { dir: '2017-01--efo-birchmere/', title: 'Jan 2017: Eddie From Ohio at the Birchmere', thumb: 'Saturday_0023.JPG', qty: '32' }
-  - { dir: '2016-12--boston-nye/', title: 'Dec 2016: New Year Eve in Boston', thumb: 'IMG_0052.JPG', qty: '27' }
+  - { dir: '2016-12--boston-nye/', title: 'Dec 2016: New Year''s Eve in Boston', thumb: 'IMG_0052.JPG', qty: '27' }
   - { dir: '2016-01--efo-birchmere/', title: 'Jan 2016: Eddie From Ohio at the Birchmere', thumb: '003-EFO-Friday.JPG', qty: '49' }
   - { dir: '2015-01--efo-birchmere/', title: 'Jan 2015: Eddie From Ohio at the Birchmere', thumb: 'IMG_0076.JPG', qty: '14' }
   - { dir: '2014-02--efo-birchmere/', title: 'Feb 2014: Eddie From Ohio at the Birchmere', thumb: '37-saturday.jpg', qty: '33' }
