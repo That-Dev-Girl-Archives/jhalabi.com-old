@@ -23,6 +23,7 @@ galleries:
   - { dir: '2016-05--alaska-day-4-hubbard-glacier/', title: 'May 2016: Alaska Day 4 - Hubbard Glacier', thumb: 'IMG_0085.JPG', qty: '66' }
   - { dir: '2016-05--alaska-day-3-seward/', title: 'May 2016: Alaska Day 3 - Seward', thumb: 'IMG_0029.JPG', qty: '116' }
   - { dir: '2016-05--alaska-day-1-anchorage/', title: 'May 2016: Alaska Day 1 - Anchorage', thumb: 'IMG_0130.JPG', qty: '91' }
+  - { dir: '2011-11--eddie-from-ohio-cruise/', title: 'Nov 2011: Eddie From Ohio Cruise', thumb: '249-sunday-concert.jpg', qty: '187' }
 ---
 
 # Music Cruises
