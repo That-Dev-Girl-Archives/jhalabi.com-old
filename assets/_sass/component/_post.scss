@@ -39,7 +39,12 @@
   // Category / tag container
   .topic {
     display: block;
+    margin-bottom: 2rem;
     margin-right: 2rem;
+
+    &:last-of-type {
+      margin-bottom: 0;
+    }
 
     @media screen and (min-width: $medium) {
       display: inline;
