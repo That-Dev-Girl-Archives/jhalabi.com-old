@@ -1,0 +1,42 @@
+/**
+ * Resume professional profiles block
+ */
+
+.resume-profiles {
+  a {
+    background: $purple_dark;
+    color: $white;
+    display: block;
+    padding: 2rem 1rem;
+    text-decoration: none;
+
+    &:hover, &:focus {
+      background: lighten($purple_dark, 20%);
+    }
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+
+    @media screen and (min-width: $small) {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-column-gap: 2rem;
+    }
+
+    @media screen and (min-width: $large) {
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+  }
+
+  li {
+    padding: 0;
+    text-align: center;
+
+    span {
+      display: block;
+      font-size: 3rem;
+    }
+  }
+}

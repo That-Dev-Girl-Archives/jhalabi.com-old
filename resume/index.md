@@ -1,5 +1,5 @@
 ---
-layout: page-full-width
+layout: page-resume
 title: Professional Resume
 ---
 
@@ -7,7 +7,7 @@ title: Professional Resume
 
 # Professional Resume
 
-A big picture front-end developer in Washington DC with over 15 years of programming experience. Expertise in both creating custom themes for content management systems, architecting Javascript applications, and developing eCommerce solutions. Obsessed with elegant user interactions and clean code.
+Senior web developer in Washington DC with over 15 years of programming experience. Expertise in both creating custom themes for content management systems, architecting Javascript applications, and developing eCommerce solutions. Obsessed with elegant user interactions and clean code.
 
 {% endcapture %}
 
@@ -18,11 +18,16 @@ A big picture front-end developer in Washington DC with over 15 years of program
 I have been exposed to many languages and technologies over the course of my 15+ year career. My primary focus has always been on the front-end, working solely on HTML and CSS; however I also work in mid- and back-end technical stacks and love it.
 
 * **Front-End:** HTML 5, CSS, Sass, Less, Bootstrap 3 & 4, Bourbon Neat, Twig, Handlebars
-* **Javascript:** Plain Ol’& Javascript, jQuery, jQuery UI, D3, Node, Express, React, Backbone, Marionette, Jasmine
+* **Javascript:** Plain Ol’ Javascript, jQuery, jQuery UI, Node, React, JSX, Backbone, Marionette, D3, Jasmine
 * **Languages:** PHP, Gulp, JSP, JSTL
-* **CMS:** Drupal 7 & 8, WordPress, Magento, WooCommerce
+* **CMS:** WordPress, Drupal 7 & 8, Magento, WooCommerce
 
 My freelance and portfolio site contains a number of examples of my website work, as well as variety of tools, plugins, presentation slides, and development articles that I have written.
+
+<a href="https://thatdevgirl.com" class="btn">
+  <span class="fas fa-code-branch">&nbsp;</span>
+  Check out my portfolio site
+</a>
 
 {% endcapture %}
 
@@ -34,9 +39,11 @@ My freelance and portfolio site contains a number of examples of my website work
 **Senior Javascript Front-End Developer**
 _January 2016 – present_
 
-* Working with a team of developers and designers to build responsive, accessible, and UX-focused Drupal 7 themes for the university’s school and department sites, using HTML, CSS, Bootstrap 4, Javascript, and PHP.
+* Converting the university's Drupal themes into WordPress using HTML5, Sass, Twig, React, and PHP.
+* Building custom Gutenberg blocks and WordPress plugins for specialized content and admin needs.
 * Developing custom Javascript functionality for individual department websites.
-* Leading the university’s accessibility development efforts.
+* Built responsive and accessible Drupal 7 themes for the university’s school and department sites using HTML, CSS, Bootstrap 4, Javascript, and PHP.
+* Led the university’s accessibility development efforts during an OCR review in 2017.
 
 ### That Dev Girl
 **Founder & Lead Developer**
@@ -59,8 +66,8 @@ _October 2015 – present_
 **2016**
 
 * _Introduction to Javascript_ workshop at General Assembly (September 2016)
-* _Front-End Web Development_ at General Assembly (March 2016 – June 2016)
-* _Front-End Web Development_ at General Assembly (December 2015 – March 2016)
+* _Front-End Web Development_ 10-week class at General Assembly (March 2016 – June 2016)
+* _Front-End Web Development_ 10-week class at General Assembly (December 2015 – March 2016)
 
 {% endcapture %}
 
