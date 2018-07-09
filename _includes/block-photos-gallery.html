@@ -11,12 +11,25 @@
   {% assign imgs = site.static_files %}
   {% for img in imgs %}
     {% if img.path contains page.folder %}
-      {% assign img_name = img.path | split: '/' | last | split: '.' | first %}
+
+      {% assign img_alt = img.path | split: '/' | last | split: '.' | first %}
+      {% assign img_title = img_alt | replace: '_', ' ' | replace: '-', ' ' %}
 
       <figure class="photos-brick">
-        <img src="{{ img.path }}" alt="{{ img_name }}" title="{{ img_name }}"/>
+        <img src="{{ img.path }}" alt="{{ img_alt }}" title="{{ img_title }}"/>
       </figure>
 
     {% endif %}
   {% endfor %}
+</div>
+
+<div id="photos-lightbox">
+  <a href="#" id="close-photos-lightbox" aria-label="Close this photo close up">
+    <span class="fas fa-times">&nbsp;</span>
+  </a>
+
+  <figure>
+    <img src="" alt="" role="presentation">
+    <figcaption></figcaption>
+  </figure>
 </div>
