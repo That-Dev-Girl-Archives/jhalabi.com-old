@@ -1,6 +1,6 @@
 ---
 layout: tag
 title: Conception Articles
-permalink: "/blog/tag/conception/"
+permalink: /blog/tag/conception
 category: conception
 ---
