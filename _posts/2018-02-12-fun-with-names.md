@@ -57,7 +57,10 @@ Regardless, I decided it would be fun to compile all of these suggestions here f
 * Mayzie McMonkey McBean
 * Mahn
 * Helen
+* Wallaby
+* Rudolph
+* Surprise!
 
 Again, I have already decided what my daughter's name will be. But keep the suggestions coming. This is fun.
 
-_(Additional updates have been made throughout March and May, 2018.)_
+_(Additional updates have been made throughout March, May, and July, 2018.)_
