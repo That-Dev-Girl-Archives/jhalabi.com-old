@@ -1,7 +1,6 @@
 ---
 layout: category
 title: Pregnancy Articles
-permalink: /blog/category/pregnancy
 category: pregnancy
 ---
 

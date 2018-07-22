@@ -1,7 +1,6 @@
 ---
 layout: category
 title: Life Articles
-permalink: /blog/category/life
 category: life
 ---
 

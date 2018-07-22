@@ -1,7 +1,6 @@
 ---
 layout: category
 title: Photography Articles
-permalink: /blog/category/photography
 category: photography
 ---
 

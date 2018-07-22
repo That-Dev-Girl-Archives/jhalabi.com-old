@@ -1,6 +1,6 @@
 ---
 layout: page-resume
-title: Professional Resume
+title: Resume
 ---
 
 {% capture content %}
