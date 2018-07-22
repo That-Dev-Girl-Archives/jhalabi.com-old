@@ -1,5 +1,5 @@
 ---
 layout: blog
-title: Personal Blog | Joni Halabi
+title: Blog | Joni Halabi
 permalink: /blog
 ---
