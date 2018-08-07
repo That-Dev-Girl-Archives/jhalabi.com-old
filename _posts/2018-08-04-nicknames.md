@@ -20,3 +20,6 @@ My daughter is only a few days old, but over the course of the past few days, I 
 * Honey
 * Little Miss Squirmy
 * Baby Doll
+* My Little Ninja
+* My Little Yogi
+* Sweet Pea
