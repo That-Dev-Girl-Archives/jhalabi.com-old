@@ -1,35 +1,42 @@
 {% include site-header.html %}
 {% include page-header.html %}
 
-<main class="site-content">
-  <div class="site-wrapper">
+<main>
 
-    <h1>{{ page.category | capitalize | replace: "_", " "}}.</h1>
-    <p>{{ page.content }}</p>
+  <div class="site-content">
+    {{ content }}
 
-    <ul class="taxonomy-articles">
-      {% for post in site.tags[page.category] %}
+    <p>
+      <a href="/blog/{{ page.main }}" class="btn">
+        Back to the {{ page.main | capitalize }} page
+      </a>
+    </p>
+  </div>
+
+    <ul class="tags">
+      {% for post in site.tags[page.category] reversed %}
         <li>
-          <p class="date">
-            {{ post.date | date_to_long_string }}
-          </p>
+          <div class="site-content">
+            <p class="date">
+              {{ post.date | date_to_long_string }}
+            </p>
 
-          <h2>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-          </h2>
+            <h2>
+              <a href="{{ post.url }}">{{ post.title }}</a>
+            </h2>
 
-          <p>
-            {{ post.content | strip_html | truncate: 275, ' [...]' }}
-          </p>
+            <p>
+              {{ post.content | strip_html | truncate: 800, ' [...]' }}
+            </p>
 
-          <a href="{{ post.url }}" class="btn" aria-label="Read more about {{ post.title }}">
-            Read more...
-          </a>
+            <a href="{{ post.url }}" class="btn" aria-label="Read more about {{ post.title }}">
+              Read more...
+            </a>
+          </div>
         </li>
       {% endfor %}
     </ul>
 
-  </div>
 </main>
 
 {% include page-footer.html %}
