@@ -26,6 +26,7 @@ I like to read books. A lot of books. I also like to keep track of what I have r
 
 Book | Thoughts | Date Read
 ---- | ---- | ----
+**The Nanny Connie Way** <br> _Connie Simpson_ | My first parenting book. I'm sure it won't be my last. There is some great advice in this book, but it is mixed in with a lot of self-promotional text. I skipped past the testimonials, straight to the good stuff. | July
 **32 Yolks: From My Mother's Table to Working the Line** <br> _Eric Ripert_ | Another book club book (after a long book club hiatus.) I had a lot of feelings while reading this book. <span class='fa fa-heart'></span> | June
 **Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue** <br> _Ryan Holiday_ | Interesting read about the Gawker / Hogan case, through the lens of conspiracies in general. There is also a lot of content about conspiracies throughout history that is not particularly relevant to this case, but this book definitely makes you think about power, free speech, privacy, and the state of our legal system. <span class='fa fa-heart'></span> | June
 **Never Have Your Dog Stuffed** <br> _Alan Alda_ | I love biographies and Alan Alda is amazing. <span class='fa fa-heart'></span> | April
