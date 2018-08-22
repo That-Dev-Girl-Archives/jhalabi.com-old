@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Final Public Postpartum Thoughts"
+title: "Actual Final Public Postpartum Thoughts"
 date: "2018-08-19"
 categories:
   - pregnancy
