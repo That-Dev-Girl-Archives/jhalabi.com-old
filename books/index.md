@@ -26,6 +26,7 @@ I like to read books. A lot of books. I also like to keep track of what I have r
 
 Book | Thoughts | Date Read
 ---- | ---- | ----
+**Fahrenheit 451** <br> _Ray Bradbury_ | Finally read this classic. Another book club book. | October
 **Cloud Atlas** <br> _David Mitchell_ | Nested stories that are all connected to each other. Very clever. I read this book because of the movie trailer. _(I have not seen the movie yet. I am a terrible movie watcher.)_ | September
 **Accessibility for Everyone** <br> _Laura Kalbag_ | Great, well rounded overview of web accessibility from all perspectives, from design to development to testing. Much of it was review for me because I've also been doing a ton of work in this field, but I also learned a lot from this book. <span class='fa fa-heart'></span> | September
 **The Last American Vampire** <br> _Seth Grahame-Smith_ | The sequel to _Abraham Lincoln: Vampire Hunter_, which I read _years_ ago. I loved that book, but this book was even better. It goes through American history, but in a world where vampires not only exist, but are a critical part of history. So well written. <span class='fa fa-heart'></span> | August
