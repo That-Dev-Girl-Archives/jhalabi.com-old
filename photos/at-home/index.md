@@ -4,7 +4,7 @@ title: At Home
 id: photos-album
 
 galleries:
-  - { dir: '2018-06--baby-shower/', title: 'My Baby Shower', thumb: 'IMG_0029.jpg', qty: '46' }
+  - { dir: '2018-06--baby-shower/', title: 'June 2018: My Baby Shower', thumb: 'IMG_0029.jpg', qty: '46' }
   - { dir: '2017-01--womens-march/', title: 'January 2017: Women''s March', thumb: 'IMG_2053.JPG', qty: '59' }
   - { dir: '2016-05--manassas-air-show/', title: 'May 2016: Manassas Air Show', thumb: 'IMG_0017.JPG', qty: '21' }
   - { dir: '2016-03--meadowlark-cherry-blossoms/', title: 'March 2016: Meadowlark Cherry Blossoms', thumb: 'IMG_0017.JPG', qty: '37' }
