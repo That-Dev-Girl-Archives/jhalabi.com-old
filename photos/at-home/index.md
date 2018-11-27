@@ -12,9 +12,9 @@ galleries:
   - { dir: '2014-11--meadowlark-walk-of-lights/', title: 'November 2014: Meadowlark Walk of Lights', thumb: 'IMG_0065.JPG', qty: '16' }
   - { dir: '2014-06--mom-visits-dc/', title: 'June 2014: Mom Visits DC', thumb: 'IMG_0023.JPG', qty: '18' }
   - { dir: '2014-05--moms-retirement-party/', title: 'May 2014: Mom''s Retirement Party', thumb: '21-Surprise-picnic.JPG', qty: '22' }
-  - { dir: '2012-12--dc-christmas-ntnl-cemetery/', title: 'Dec 2012: DC Christmas, National Cemetery', thumb: '089-Arlington-National-Cemetary-Wreath-Laying.JPG', qty: '73' }
-  - { dir: '2012-10--emilys-visit-to-dc/', title: 'Oct 2012: Emily''s Visit to DC', thumb: '005-White-House-Garden-Tour.JPG', qty: '45' }
-  - { dir: '2012-10--burke-lake/', title: 'Oct 2012: Burke Lake', thumb: 'IMG_6302.JPG', qty: '18' }
+  - { dir: '2012-12--dc-christmas-ntnl-cemetery/', title: 'December 2012: DC Christmas, National Cemetery', thumb: '089-Arlington-National-Cemetary-Wreath-Laying.JPG', qty: '73' }
+  - { dir: '2012-10--emilys-visit-to-dc/', title: 'October 2012: Emily''s Visit to DC', thumb: '005-White-House-Garden-Tour.JPG', qty: '45' }
+  - { dir: '2012-10--burke-lake/', title: 'October 2012: Burke Lake', thumb: 'IMG_6302.JPG', qty: '18' }
 ---
 
 # At Home
