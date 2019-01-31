@@ -39,7 +39,7 @@ My freelance and portfolio site contains a number of examples of my website work
 **Senior Javascript Front-End Developer**
 _January 2016 – present_
 
-* Building custom Gutenberg blocks and WordPress plugins for specialized content and admin needs using React, JSX, and PHP.
+* Building custom Gutenberg blocks and WordPress plugins for specialized functionality using React, JSX, and PHP.
 * Converting the university's Drupal themes into WordPress using HTML, Sass, and Twig.
 * Developing custom Javascript functionality for individual department websites.
 * Built responsive and accessible Drupal 7 themes for the university’s school and department sites using HTML, CSS, Bootstrap 4, Javascript, and PHP.
