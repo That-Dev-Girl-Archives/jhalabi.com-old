@@ -39,8 +39,8 @@ My freelance and portfolio site contains a number of examples of my website work
 **Senior Javascript Front-End Developer**
 _January 2016 – present_
 
-* Converting the university's Drupal themes into WordPress using HTML5, Sass, Twig, React, and PHP.
-* Building custom Gutenberg blocks and WordPress plugins for specialized content and admin needs.
+* Building custom Gutenberg blocks and WordPress plugins for specialized content and admin needs using React, JSX, and PHP.
+* Converting the university's Drupal themes into WordPress using HTML, Sass, and Twig.
 * Developing custom Javascript functionality for individual department websites.
 * Built responsive and accessible Drupal 7 themes for the university’s school and department sites using HTML, CSS, Bootstrap 4, Javascript, and PHP.
 * Led the university’s accessibility development efforts during an OCR review in 2017.
@@ -57,11 +57,15 @@ _October 2015 – present_
 
 ## Conference Speaking and Teaching
 
+**2019**
+
+* _"[Customizing Gutenberg: Lessons Learned at Georgetown](https://thatdevgirl.com/talks/gutenberg)"_ at WPCampus Online (January 2019)
+
 **2017**
 
-* _"[Accessible Development For All!](http://www.thatdevgirl.com/talks/accessibility-edui)"_ at edUi (September 2017)
-* _"[Accessible Development For All!](http://www.thatdevgirl.com/talks/accessibility)"_ at ConvergeSE (June 2017)
-* _"[Accessible Development For All!](http://www.thatdevgirl.com/talks/accessibility)"_ at NoVA CodeCamp (April 2017)
+* _"[Accessible Development For All!](https://thatdevgirl.com/talks/accessibility-edui)"_ at edUi (September 2017)
+* _"[Accessible Development For All!](https://thatdevgirl.com/talks/accessibility)"_ at ConvergeSE (June 2017)
+* _"[Accessible Development For All!](https://thatdevgirl.com/talks/accessibility)"_ at NoVA CodeCamp (April 2017)
 
 **2016**
 
