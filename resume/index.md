@@ -112,7 +112,10 @@ _June 2004 – July 2009_
 
 {% capture education %}
 
-## Degrees and Certifications
+## Degrees, Certifications, and Awards
+
+**Georgetown University President's Excellence Award Winner**, 2017
+[Team award](https://hr.georgetown.edu/2017%20Presidents) for web accessibility work
 
 **Magento Front End Developer Certification**, 2013 <br>
 [[certification link](http://www.magentocommerce.com/certification/directory/dev/663722/)]
