@@ -59,13 +59,13 @@ _October 2015 – present_
 
 **2019**
 
-* _"[Customizing Gutenberg: Lessons Learned at Georgetown](https://thatdevgirl.com/talks/gutenberg)"_ at WPCampus Online (January 2019)
+* _[Customizing Gutenberg: Lessons Learned at Georgetown](https://thatdevgirl.com/talks/gutenberg)_ at WPCampus Online (January 2019)
 
 **2017**
 
-* _"[Accessible Development For All!](https://thatdevgirl.com/talks/accessibility-edui)"_ at edUi (September 2017)
-* _"[Accessible Development For All!](https://thatdevgirl.com/talks/accessibility)"_ at ConvergeSE (June 2017)
-* _"[Accessible Development For All!](https://thatdevgirl.com/talks/accessibility)"_ at NoVA CodeCamp (April 2017)
+* _[Accessible Development For All!](https://thatdevgirl.com/talks/accessibility-edui)_ at edUi (September 2017)
+* _[Accessible Development For All!](https://thatdevgirl.com/talks/accessibility)_ at ConvergeSE (June 2017)
+* _[Accessible Development For All!](https://thatdevgirl.com/talks/accessibility)_ at NoVA CodeCamp (April 2017)
 
 **2016**
 
@@ -114,7 +114,7 @@ _June 2004 – July 2009_
 
 ## Degrees, Certifications, and Awards
 
-**Georgetown University President's Excellence Award Winner**, 2017
+**Georgetown University President's Excellence Award Winner**, 2017 <br>
 [Team award](https://hr.georgetown.edu/2017%20Presidents) for web accessibility work
 
 **Magento Front End Developer Certification**, 2013 <br>
