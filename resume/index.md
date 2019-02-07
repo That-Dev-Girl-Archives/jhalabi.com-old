@@ -7,7 +7,7 @@ title: Resume
 
 # Professional Resume
 
-Senior web developer in Washington DC with over 15 years of programming experience. Expertise in both creating custom themes for content management systems, architecting Javascript applications, and developing eCommerce solutions. Obsessed with elegant user interactions and clean code.
+Senior web developer in Washington DC with over 15 years of programming experience. Expertise in both creating custom themes for content management systems, architecting Javascript applications, and developing eCommerce solutions.
 
 {% endcapture %}
 
