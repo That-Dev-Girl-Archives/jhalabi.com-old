@@ -59,7 +59,7 @@ table {
       width: 50%;
     }
 
-    em {
+    &:first-of-type em {
       display: inline-block;
       font-size: 1rem;
       margin-top: 0.5rem;
