@@ -10,6 +10,7 @@ Because... you know... books are awesome!
 I like to read books. A lot of books. I also like to keep track of what I have read… partially so that I can refer to them later and partially because I will forget that I have read something before. All of the books that I have read (since 2010, at least) are listed here. Any book with a heart ( <span class='fa fa-heart'></span>  ) after it is one that I absolutely loved.
 
 <nav class="book-anchors" aria-label="Links to book information by year">
+  <a href="#books-2019">2019</a> |
   <a href="#books-2018">2018</a> |
   <a href="#books-2017">2017</a> |
   <a href="#books-2016">2016</a> |
@@ -20,6 +21,13 @@ I like to read books. A lot of books. I also like to keep track of what I have r
   <a href="#books-2011">2011</a> |
   <a href="#books-2010">2010</a>
 </nav>
+
+<div id="books-2019" class="book-anchor">&nbsp;</div>
+## Books Read in 2019
+
+Book | Thoughts | Date Read
+---- | ---- | ----
+**Notorious RBG: The Life and Times of Ruth Bader Ginsburg** <br> _Irin Carmon & Shana Knizhnik_ | Thank you to my book club for finally motivating me into reading again. I actually read this out loud to my baby (after her books, that is) at night (and this put her to sleep). But, it did not put me to sleep. RBG is truly amazing! | March
 
 <div id="books-2018" class="book-anchor">&nbsp;</div>
 ## Books Read in 2018
