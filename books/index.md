@@ -27,7 +27,7 @@ I like to read books. A lot of books. I also like to keep track of what I have r
 
 Book | Thoughts | Date Read
 ---- | ---- | ----
-**Notorious RBG: The Life and Times of Ruth Bader Ginsburg** <br> _Irin Carmon & Shana Knizhnik_ | Thank you to my book club for finally motivating me into reading again. I actually read this out loud to my baby (after her books, that is) at night (and this put her to sleep). But, it did not put me to sleep. RBG is truly amazing! | March
+**Notorious RBG: The Life and Times of Ruth Bader Ginsburg** <br> _Irin Carmon & Shana Knizhnik_ | Thank you to my book club for finally motivating me into reading again. I actually read this out loud to my baby (after her books, that is) at night (and this put her to sleep). But, it did not put me to sleep. RBG is truly amazing! <span class='fa fa-heart'></span> | March
 
 <div id="books-2018" class="book-anchor">&nbsp;</div>
 ## Books Read in 2018
