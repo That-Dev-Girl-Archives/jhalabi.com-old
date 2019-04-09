@@ -1,8 +1,8 @@
 source "https://rubygems.org"
-ruby "2.4.3"
+ruby RUBY_VERSION
 
 # jekyll version
-gem "jekyll", "3.7.3"
+gem "jekyll", ">= 3.6.3"
 
 # theme
 gem "minima"
