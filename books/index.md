@@ -27,6 +27,7 @@ I like to read books. A lot of books. I also like to keep track of what I have r
 
 Book | Thoughts | Date Read
 ---- | ---- | ----
+**Encyclopedia of an Ordinary Life** <br> _Amy Krouse Rosenthal_ | Yup. It's been a while. #kids This book was a great dive back into reading a whole book because it is such short snippets at a time. Great bedtime reading. | June
 **Notorious RBG: The Life and Times of Ruth Bader Ginsburg** <br> _Irin Carmon & Shana Knizhnik_ | Thank you to my book club for finally motivating me into reading again. I actually read this out loud to my baby (after her books, that is) at night (and this put her to sleep). But, it did not put _me_ to sleep. RBG is truly amazing! <span class='fa fa-heart'></span> | March
 
 <div id="books-2018" class="book-anchor">&nbsp;</div>
