@@ -27,6 +27,7 @@ I like to read books. A lot of books. I also like to keep track of what I have r
 
 Book | Thoughts | Date Read
 ---- | ---- | ----
+**The Seven Husbands of Evelyn Hugo** <br> _Taylor Jenkins Reid_ | Book club may be the only reason I find books. My first novel in a while. I could not put it down - I just wanted to keep going at the end of each (very short) chapter. Definitely not for babies. <span class='fa fa-heart'></span> | August
 **Dreams From My Father** <br> _Barack Obama_ | This book took a while to read, but it was worth it. Great book about race, family, and finding yourself. <span class='fa fa-heart'></span> | August
 **Bridge to Terabithia** <br> _Katherine Paterson_ | I am not sure how I missed reading this book growing up. It made me cry. It's been a while since a book made me cry. <span class='fa fa-heart'></span> | June
 **Encyclopedia of an Ordinary Life** <br> _Amy Krouse Rosenthal_ | Yup. It's been a while. #kids This book was a great dive back into reading a whole book because it is such short snippets at a time. Great bedtime reading. | June
