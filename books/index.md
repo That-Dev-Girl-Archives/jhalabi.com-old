@@ -27,7 +27,8 @@ I like to read books. A lot of books. I also like to keep track of what I have r
 
 Book | Thoughts | Date Read
 ---- | ---- | ----
-**Neil Patrick Harris: Choose Your Own Autobiography** <br> _Neil Patrick Harris_ | I have not read a choose your own adventure book since I was a kid. This was a delight. Definitely the most fun I've ever had reading an autobiography. | August
+**Becoming** <br> _Michelle Obama_ | Continuing with the autobiography streak. Love, love, love this book. Michelle Obama's life is amazing and her writing is beautiful. <span class='fa fa-heart'></span> | September
+**Neil Patrick Harris: Choose Your Own Autobiography** <br> _Neil Patrick Harris_ | I have not read a choose your own adventure book since I was a kid. This was a delight. Definitely the most fun I've ever had reading an autobiography. <span class='fa fa-heart'></span> | August
 **Clara's War** <br> _Clara Kramer_ | I have no idea where I picked up this book, but I could not put it down. <span class='fa fa-heart'></span> | August
 **The Seven Husbands of Evelyn Hugo** <br> _Taylor Jenkins Reid_ | Book club may be the only reason I find books. My first novel in a while. I could not put it down - I just wanted to keep going at the end of each (very short) chapter. Definitely not for babies. <span class='fa fa-heart'></span> | August
 **Dreams From My Father** <br> _Barack Obama_ | This book took a while to read, but it was worth it. Great book about race, family, and finding yourself. <span class='fa fa-heart'></span> | August
