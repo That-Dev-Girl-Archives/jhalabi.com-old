@@ -27,6 +27,7 @@ I like to read books. A lot of books. I also like to keep track of what I have r
 
 Book | Thoughts | Date Read
 ---- | ---- | ----
+**Version Control** <br> _Dexter Palmer_ | I did not really engage with this book until the second half. After that, I was compellingly curious. I feel like the book was a little too soap-opera-ish at times (too many characters), but I really enjoyed how it all came together. | October
 **The Immortalists** <br> _Chloe Benjamin_ | Back to fiction. This story was about a family and a bunch of predictions. I was more interested in some family members than others. And I have so many questions. | September
 **Becoming** <br> _Michelle Obama_ | Continuing with the autobiography streak. Love, love, love this book. Michelle Obama's life is amazing and her writing is beautiful. <span class='fa fa-heart'></span> | September
 **Neil Patrick Harris: Choose Your Own Autobiography** <br> _Neil Patrick Harris_ | I have not read a choose your own adventure book since I was a kid. This was a delight. Definitely the most fun I've ever had reading an autobiography. <span class='fa fa-heart'></span> | August
