@@ -10,7 +10,7 @@ tags:
 
 I attended the Women’s March on January 21, 2017. This march that was the [largest inaugural protest in US history](http://www.politicususa.com/2017/01/21/womens-march-biggest-protest-history-estimated-2-4-million-march.html), with over 500,000 people in DC alone.
 
-I also have [anxiety disorder](http://worrying%20for%20days%20or%20weeks%20before%20an%20event%20where%20other%20people%20will%20be/) and my anxiety is strongest when I am around large groups of people.
+I also have anxiety disorder and my anxiety is strongest when I am around large groups of people.
 
 ## My March experience
 I feel lots of things emotionally and physically when I am anxious. This is a sample of what I felt at the March:

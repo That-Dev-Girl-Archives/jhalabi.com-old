@@ -7,4 +7,4 @@ main: pregnancy
 
 # My Pregnancy Story: The First Trimester.
 
-Articles about the first trimester of my pregnancy, November through December, 2017.
+Articles about the first trimester of my pregnancy, November through December 2017.
