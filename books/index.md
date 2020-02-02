@@ -10,6 +10,7 @@ Because... you know... books are awesome!
 I like to read books. A lot of books. I also like to keep track of what I have read… partially so that I can refer to them later and partially because I will forget that I have read something before. All of the books that I have read (since 2010, at least) are listed here. Any book with a heart ( <span class='fa fa-heart'></span>  ) after it is one that I absolutely loved.
 
 <nav class="book-anchors" aria-label="Links to book information by year">
+  <a href="#books-2020">2020</a> |
   <a href="#books-2019">2019</a> |
   <a href="#books-2018">2018</a> |
   <a href="#books-2017">2017</a> |
@@ -21,6 +22,13 @@ I like to read books. A lot of books. I also like to keep track of what I have r
   <a href="#books-2011">2011</a> |
   <a href="#books-2010">2010</a>
 </nav>
+
+<div id="books-2020" class="book-anchor">&nbsp;</div>
+## Books Read in 2020
+
+Book | Thoughts | Date Read
+---- | ---- | ----
+**Bad Blood: Secrets and Lies in a Silicon Valley Startup** <br> _John Carreyrou_ | This book made me so angry, but I could not put it down. Definitely worth the read if you have any interest in startup culture, healthcare, and what not to do. <span class='fa fa-heart'></span> | January
 
 <div id="books-2019" class="book-anchor">&nbsp;</div>
 ## Books Read in 2019
