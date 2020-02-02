@@ -7,7 +7,7 @@ title: Resume
 
 # Professional Resume
 
-Senior web developer in Washington DC with over 15 years of programming experience. Expertise in both creating custom themes for content management systems, architecting Javascript applications, and developing eCommerce solutions.
+Senior web developer in Washington DC with over 20 years of programming experience. Expertise in both creating custom themes for content management systems, architecting Javascript applications, and developing eCommerce solutions.
 
 {% endcapture %}
 
@@ -17,10 +17,10 @@ Senior web developer in Washington DC with over 15 years of programming experien
 
 I have been exposed to many languages and technologies over the course of my 15+ year career. My primary focus has always been on the front-end, working solely on HTML and CSS; however I also work in mid- and back-end technical stacks and love it.
 
-* **Front-End:** HTML 5, CSS, Sass, Less, Bootstrap 3 & 4, Bourbon Neat, Twig, Handlebars
+* **Front-End:** HTML, CSS, SCSS, Bootstrap, Bourbon Neat, Twig, Handlebars, SVG
 * **Javascript:** Plain Ol’ Javascript, jQuery, jQuery UI, Node, React, JSX, Backbone, Marionette, D3, Jasmine
 * **Languages:** PHP, Gulp, JSP, JSTL
-* **CMS:** WordPress, Drupal 7 & 8, Magento, WooCommerce
+* **CMS:** WordPress, Drupal, Magento, WooCommerce
 
 My freelance and portfolio site contains a number of examples of my website work, as well as variety of tools, plugins, presentation slides, and development articles that I have written.
 
@@ -40,7 +40,7 @@ My freelance and portfolio site contains a number of examples of my website work
 _January 2016 – present_
 
 * Building custom Gutenberg blocks and WordPress plugins for specialized functionality using React, JSX, and PHP.
-* Converting the university's Drupal themes into WordPress using HTML, Sass, and Twig.
+* Converted the university's Drupal themes into WordPress themes, using HTML, SCSS, and Twig.
 * Developing custom Javascript functionality for individual department websites.
 * Built responsive and accessible Drupal 7 themes for the university’s school and department sites using HTML, CSS, Bootstrap 4, Javascript, and PHP.
 * Led the university’s accessibility development efforts during an OCR review in 2017.
@@ -49,7 +49,7 @@ _January 2016 – present_
 **Founder & Lead Developer**
 _October 2015 – present_
 
-* Working with both large and small businesses to build website and application UIs, specializing in creating dynamic and responsive themes for WordPress and Drupal, using HTML5, CSS, Javascript, and Bootstrap.
+* Working with both large and small businesses to build website and application UIs, specializing in creating dynamic and responsive themes and functionality for WordPress and Drupal.
 
 {% endcapture %}
 
@@ -133,6 +133,9 @@ Dual Major: **Electronic Media, Arts, and Communication & Computer Science**
 {% capture community %}
 
 ## Community Involvement
+
+**Webmaster for the American Druze Foundation**, _2019 - present_ <br>
+I maintain the [American Druze Foundation](https://www.americandruzefoundation.org) website by regularly updating the site design and content. I am also adding e-commerce functionality to facilitate online donations and product sales.
 
 **Webmaster for One Voice**, _2014 – present_ <br>
 I maintain and support new functionality for the [One Voice](http://www.onevoicecommunity.org/) website. In early 2014, I developed their online store using WooCommerce and developed a custom plugin ([WC Tiered Shipping](https://wordpress.org/plugins/wc-tiered-shipping/)) to support the store’s custom shipping rates.
