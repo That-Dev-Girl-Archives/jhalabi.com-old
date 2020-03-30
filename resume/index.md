@@ -115,7 +115,7 @@ _June 2004 – July 2009_
 ## Degrees, Certifications, and Awards
 
 **Georgetown University President's Excellence Award Winner**, 2017 <br>
-[Team award](https://hr.georgetown.edu/2017-presidents-excellence-awards) for web accessibility work
+[Team award](https://hr.georgetown.edu/news-story/2017-presidents-excellence-awards/) for web accessibility work
 
 **Magento Front End Developer Certification**, 2013 <br>
 [[certification link](http://www.magentocommerce.com/certification/directory/dev/663722/)]
@@ -141,7 +141,7 @@ I maintain the [American Druze Foundation](https://www.americandruzefoundation.o
 I maintain and support new functionality for the [One Voice](http://www.onevoicecommunity.org/) website. In early 2014, I developed their online store using WooCommerce and developed a custom plugin ([WC Tiered Shipping](https://wordpress.org/plugins/wc-tiered-shipping/)) to support the store’s custom shipping rates.
 
 **Member of the Magento Certification Advisory Board**, _2013 – 2015_ <br>
-I worked with the [Magento exam team](https://u.magento.com/certification/advisory-board) to write and review their new front-end developer certification exam.
+I worked with the Magento exam team to write and review their new front-end developer certification exam.
 
 **Packt Publishing Editor**, _2013 - 2014_ <br>
 I was a technical content editor for the _[jQuery 2.0 Development Cookbook](https://www.packtpub.com/web-development/jquery-20-development-cookbook)_, which was published in February 2014.
