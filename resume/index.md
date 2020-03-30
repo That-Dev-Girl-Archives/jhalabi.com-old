@@ -59,13 +59,13 @@ _October 2015 – present_
 
 **2019**
 
-* _[Customizing Gutenberg: Lessons Learned at Georgetown](https://thatdevgirl.com/talks/gutenberg)_ at WPCampus Online (January 2019)
+* _[Customizing Gutenberg: Lessons Learned at Georgetown](https://talks.thatdevgirl.com/gutenberg)_ at WPCampus Online (January 2019)
 
 **2017**
 
-* _[Accessible Development For All!](https://thatdevgirl.com/talks/accessibility-edui)_ at edUi (September 2017)
-* _[Accessible Development For All!](https://thatdevgirl.com/talks/accessibility)_ at ConvergeSE (June 2017)
-* _[Accessible Development For All!](https://thatdevgirl.com/talks/accessibility)_ at NoVA CodeCamp (April 2017)
+* _[Accessible Development For All! (short version)](https://talks.thatdevgirl.com/accessibility-edui)_ at edUi (September 2017)
+* _[Accessible Development For All!](https://talks.thatdevgirl.com/accessibility)_ at ConvergeSE (June 2017)
+* _[Accessible Development For All!](https://talks.thatdevgirl.com/accessibility)_ at NoVA CodeCamp (April 2017)
 
 **2016**
 
