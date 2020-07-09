@@ -57,6 +57,10 @@ _October 2015 – present_
 
 ## Conference Speaking and Teaching
 
+**2020**
+
+* _[See What I Mean?: Data Visualization in WordPress](https://talks.thatdevgirl.com/datavis)_ at Javascript for WordPress Conference (July 2020) and _(coming soon!)_ WPCampus Online 2020 (July 2020)
+
 **2019**
 
 * _[Customizing Gutenberg: Lessons Learned at Georgetown](https://talks.thatdevgirl.com/gutenberg)_ at WPCampus Online (January 2019)
