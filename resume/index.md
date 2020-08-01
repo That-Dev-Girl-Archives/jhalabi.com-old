@@ -59,7 +59,8 @@ _October 2015 – present_
 
 **2020**
 
-* _[See What I Mean?: Data Visualization in WordPress](https://talks.thatdevgirl.com/datavis)_ at Javascript for WordPress Conference (July 2020) and _(coming soon!)_ WPCampus Online 2020 (July 2020)
+* _[See What I Mean?: Data Visualization in WordPress](https://talks.thatdevgirl.com/datavis)_ at Javascript for WordPress Conference (July 2020)
+* _[See What I Mean?: Data Visualization in WordPress](https://talks.thatdevgirl.com/datavis-lightning)_ (lightning talk version) at WPCampus Online 2020 (July 2020)
 
 **2019**
 
