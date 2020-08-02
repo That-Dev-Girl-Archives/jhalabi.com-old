@@ -18,7 +18,7 @@ Senior web developer in Washington DC with over 20 years of programming experien
 I have been exposed to many languages and technologies over the course of my 15+ year career. My primary focus has always been on the front-end, working solely on HTML and CSS; however I also work in mid- and back-end technical stacks and love it.
 
 * **Front-End:** HTML, CSS, SCSS, Bootstrap, Bourbon Neat, Twig, Handlebars, SVG
-* **Javascript:** Plain Ol’ Javascript, jQuery, jQuery UI, Node, React, JSX, Backbone, Marionette, D3, Jasmine
+* **Javascript:** Plain Ol’ Javascript, jQuery, jQuery UI, Node, React, JSX, Backbone, Marionette, D3
 * **Languages:** PHP, Gulp, JSP, JSTL
 * **CMS:** WordPress, Drupal, Magento, WooCommerce
 
