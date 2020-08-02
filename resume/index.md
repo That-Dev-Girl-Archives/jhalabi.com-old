@@ -45,38 +45,75 @@ _January 2016 – present_
 * Built responsive and accessible Drupal 7 themes for the university’s school and department sites using HTML, CSS, Bootstrap 4, Javascript, and PHP.
 * Led the university’s accessibility development efforts during an OCR review in 2017.
 
-### That Dev Girl
-**Founder & Lead Developer**
-_October 2015 – present_
-
-* Working with both large and small businesses to build website and application UIs, specializing in creating dynamic and responsive themes and functionality for WordPress and Drupal.
-
 {% endcapture %}
 
 {% capture speaking %}
 
 ## Conference Speaking and Teaching
 
-**2020**
+<div class="talks">
+  <div class="talk">
+    <p class="title">WPCampus Online 2020</p>
+    <p class="date">July 29-30, 2020</p>
+    <p class="location">Online</p>
+    <p class="slides"><a href="https://talks.thatdevgirl.com/datavis-lightning" aria-label="Data Visualization in WP talk at WPCampus Online 2020">Data Visualization in WP</a></p>
+  </div>
 
-* _[See What I Mean?: Data Visualization in WordPress](https://talks.thatdevgirl.com/datavis)_ at Javascript for WordPress Conference (July 2020)
-* _[See What I Mean?: Data Visualization in WordPress](https://talks.thatdevgirl.com/datavis-lightning)_ (lightning talk version) at WPCampus Online 2020 (July 2020)
+  <div class="talk">
+    <p class="title">Javascript for WordPress Conference 2020</p>
+    <p class="date">July 8-10, 2020</p>
+    <p class="location">Online</p>
+    <p class="slides"><a href="https://talks.thatdevgirl.com/datavis">Data Visualization in WP</a></p>
+  </div>
 
-**2019**
+  <div class="talk">
+    <p class="title">WPCampus Online 2019</p>
+    <p class="date">January 31, 2019</p>
+    <p class="location">Online</p>
+    <p class="slides"><a href="https://talks.thatdevgirl.com/gutenberg">Customizing Gutenberg</a></p>
+    <p class="video"><a href="https://online.wpcampus.org/schedule/customizing-gutenberg-lessons-learned-at-georgetown/" aria-label="Watch video of my talk at WPCampus Online 2019">Watch video</a></p>
+  </div>
 
-* _[Customizing Gutenberg: Lessons Learned at Georgetown](https://talks.thatdevgirl.com/gutenberg)_ at WPCampus Online (January 2019)
+  <div class="talk">
+    <p class="title">edUi</p>
+    <p class="date">September 25-27, 2017</p>
+    <p class="location">Charlottesville, VA</p>
+    <p class="slides"><a href="https://talks.thatdevgirl.com/accessibility-edui" aria-label="Accessible Development talk at edUI">Accessible Development</a></p>
+  </div>
 
-**2017**
+  <div class="talk">
+    <p class="title">ConvergeSE</p>
+    <p class="date">June 14-16, 2017</p>
+    <p class="location">Columbia, SC</p>
+    <p class="slides"><a href="https://talks.thatdevgirl.com/accessibility">Accessible Development</a></p>
+  </div>
 
-* _[Accessible Development For All! (short version)](https://talks.thatdevgirl.com/accessibility-edui)_ at edUi (September 2017)
-* _[Accessible Development For All!](https://talks.thatdevgirl.com/accessibility)_ at ConvergeSE (June 2017)
-* _[Accessible Development For All!](https://talks.thatdevgirl.com/accessibility)_ at NoVA CodeCamp (April 2017)
+  <div class="talk">
+    <p class="title">NoVA CodeCamp</p>
+    <p class="date">April 1, 2017</p>
+    <p class="location">Washington, DC</p>
+    <p class="slides"><a href="https://talks.thatdevgirl.com/accessibility">Accessible Development</a></p>
+  </div>
 
-**2016**
+  <div class="talk">
+    <p class="title">Introduction to JavaScript workshop</p>
+    <p class="date">September 2016</p>
+    <p class="location">General Assembly DC</p>
+  </div>
 
-* _Introduction to Javascript_ workshop at General Assembly (September 2016)
-* _Front-End Web Development_ 10-week class at General Assembly (March 2016 – June 2016)
-* _Front-End Web Development_ 10-week class at General Assembly (December 2015 – March 2016)
+  <div class="talk">
+    <p class="title">Front-End Web Development 10-week class</p>
+    <p class="date">March 2016 - June 2016</p>
+    <p class="location">General Assembly DC</p>
+  </div>
+
+  <div class="talk">
+    <p class="title">Front-End Web Development 10-week class</p>
+    <p class="date">December 2015 - March 2016</p>
+    <p class="location">General Assembly DC</p>
+  </div>
+
+</div>
 
 {% endcapture %}
 

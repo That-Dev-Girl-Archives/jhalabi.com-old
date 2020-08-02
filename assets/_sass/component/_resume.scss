@@ -2,6 +2,9 @@
  * Resume page styles
  */
 
+
+// Styles for work experience blocks.
+
 .work {
   h3 {
     font-size: 1rem;
@@ -30,7 +33,64 @@
     font-size: 1.1rem;
   }
 
+  // Detail lists; overriding the default list styles.
   ul {
     list-style-type: square;
   }
+
+  li {
+    margin-bottom: 0.75rem;
+  }
+}
+
+
+// Styles for conference talks blocks.
+
+.talks {
+  display: grid;
+  grid-gap: 4rem;
+  margin: 2.5rem 0;
+
+  @media screen and (min-width: $medium) {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  @media screen and (min-width: $large) {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  p {
+    font-size: 1rem;
+    margin-bottom: 0;
+  }
+
+  // Conference title.
+  .title {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+
+  // Icons.
+  .date,
+  .location,
+  .slides,
+  .video {
+    &::before {
+      background-repeat: no-repeat;
+      background-size: contain;
+      content: '';
+      display: inline-block;
+      height: 16px;
+      margin-right: 0.5rem;
+      position: relative;
+      top: 3px;
+      width: 16px;
+    }
+  }
+
+  .date::before     { background-image: url( '../assets/icons/calendar.svg' ); }
+  .location::before { background-image: url( '../assets/icons/location.svg' ); }
+  .slides::before   { background-image: url( '../assets/icons/slides.svg' ); }
+  .video::before    { background-image: url( '../assets/icons/video.svg' ); }
+
 }

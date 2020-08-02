@@ -28,7 +28,7 @@ section.site-content {
 .site-wrapper {
   @media screen and (min-width: $xlarge) {
     margin: 0 auto;
-    width: calc(#{$max_width} - 400px);
+    width: $max_width;
   }
 }
 
