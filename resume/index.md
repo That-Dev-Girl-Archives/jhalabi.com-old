@@ -57,6 +57,7 @@ _January 2016 – present_
     <p class="date">July 29-30, 2020</p>
     <p class="location">Online</p>
     <p class="slides"><a href="https://talks.thatdevgirl.com/datavis-lightning" aria-label="Data Visualization in WP talk at WPCampus Online 2020">Data Visualization in WP</a></p>
+    <p class="video"><a href="https://2020.wpcampus.org/schedule/lightning-talks/data-visualization-in-wordpress/#video" aria-label="Watch video of my talk at WPCampus Online 2020">Watch Video</a></p>
   </div>
 
   <div class="talk">
