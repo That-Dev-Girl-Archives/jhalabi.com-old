@@ -28,6 +28,7 @@ I like to read books. A lot of books. I also like to keep track of what I have r
 
 Book | Thoughts | Date Read
 ---- | ---- | ----
+**Are You There God? It's Me, Margaret.** <br> _Judy Blume_ | Hey 2020. This is embarassing, but it's been almost a year since I've read a grown up book. I decided to start with an "easy" one. Loved it. I wish I read it sooner. <span class='fa fa-heart'></span> | December
 **Bad Blood: Secrets and Lies in a Silicon Valley Startup** <br> _John Carreyrou_ | This book made me so angry, but I could not put it down. Definitely worth the read if you have any interest in startup culture, healthcare, and what not to do. <span class='fa fa-heart'></span> | January
 
 <div id="books-2019" class="book-anchor">&nbsp;</div>
